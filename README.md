@@ -28,4 +28,4 @@ cd project
 
 ## Credits
 
-This project is created by [Sanjay Sajnani] as part of a learning exercise. It is inspired by the Amazon website
+This project is created by Sanjay Sajnani as part of a learning exercise. It is inspired by the Amazon website
