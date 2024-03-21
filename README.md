@@ -1,11 +1,4 @@
 
-# Amazon Clone Project
-
-Welcome to the Amazon Clone Project! This project is a simple replica of the Amazon website, created using HTML, CSS, and JavaScript. It aims to provide a basic understanding of building an e-commerce platform with frontend technologies.
-
-## Description
-
-The Amazon Clone Project is a static web application designed to resemble the Amazon website. It includes basic functionalities such as browsing products, adding items to the cart, and viewing product details.
 
 ## How to Run
 
